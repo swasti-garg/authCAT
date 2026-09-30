@@ -114,6 +114,6 @@ Email verification works in local development. The deployed version currently us
 
 ## Author
 
-Pavani Agarwal
+Swasti Garg
 
 GitHub: https://github.com/swasti-garg

@@ -37,7 +37,7 @@ This project was built to understand how production authentication systems work,
 Clone the repository
 
 ```bash
-git clone https://github.com/prollypavani/authCAT.git
+git clone https://github.com/swasti-garg/authCAT.git
 cd authCAT
 npm install
 ```
